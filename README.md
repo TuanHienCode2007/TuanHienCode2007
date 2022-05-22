@@ -19,9 +19,9 @@
             <h1 class="title">H A P P Y B I R T H D A Y</h1>
             <div class="about">
                 <div class="introduce">
-                    <h2>Hello, I'm N.Điệp
+                    <h2>Hello, I'm T.Hiền
                         <br>
-                        hôm nay là sinh nhật tuổi 20 của mình, nên mình cũng muốn làm web này như là món quà tặng chính bản thân mình, 
+                        hôm nay là sinh nhật tuổi 15 của mình, nên mình cũng muốn làm web này như là món quà tặng chính bản thân mình, 
                         và cũng là cách để mình ôn lại những kiến thức đã học được trong thời gian qua. 
                     </h2>
                 </div>
